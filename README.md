@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/73500304/161654015-872373f4-5b58-4e7a-932f-993ead391634.png)
 
-### Hi there 👋 I'm Pham (she/her/hers), a second-year CS major at UC Irvine
+### Hi there 👋 I'm Pham (she/her/hers), a third-year CS major at UC Irvine
 I'm currently looking to expand my skillset by developing my portfolio and creating new projects that exercise my web development skills. In my work, I am looking to create an impact in technology by promoting **accessibility and diversity**. I'm interested in both front and backend development, and am looking for opportunities to grow in both!
 
 
